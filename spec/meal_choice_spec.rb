@@ -1,4 +1,5 @@
-describe '#meal_choice' do
+def meal_choice(meat)
+end
   it 'should default to meat' do
     expect(meal_choice).to eq("meat")
   end
